@@ -1,8 +1,9 @@
 - 👋 Hi, I’m <b>Mattia</b>.
 - I work as Urban climate data analyst at the CMCC Foundation, dealing with GIS, data viz, microclimate simulations
-- I'm also a PhD candidate in <i>Urban and Regional Development</i> at <a href="https://www.dist.polito.it/personale/scheda/(nominativo)/mattia.scalas">Politecnico di Torino</a>.
+- I hold a PhD in <i>Urban and Regional Development</i> at <a href="https://www.dist.polito.it/personale/scheda/(nominativo)/mattia.scalas">Politecnico di Torino</a>.
 - In addition to theoretical research in the field of territorial vulnerability assessment, I am interested in everything related to Geographic Information Systems (GIS).
 - I have been working for years with data analysis through Python and Desktop GIS (both QGIS and ESRI products) and I’m currently deepining my development skills, on a journey to become a GIS developer...
+- I mainly use Javascript and Node.js to develop interactive spatial dashboards.
 
 <!---
 Aittam93/Aittam93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
