@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Mattia</b>.
+👋 Hi, I’m <b>Mattia</b>.
 - I work as <a href="https://www.cmcc.it/it/people/scalas-mattia">Urban climate data analyst at the CMCC Foundation</a>, dealing with GIS, data viz, microclimate simulations and other very interesting stuff.
 - I hold a PhD in <i>Urban and Regional Development</i> at <a href="https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/alumni?p=058463">Politecnico di Torino</a>.
 - In addition to theoretical research in the field of territorial vulnerability assessment, I am interested in everything related to Geographic Information Systems (GIS).
